@@ -1,0 +1,14 @@
+{
+  "name": "fullstack",
+  "version": "1.0.0",
+  "description": "this is a node js simple website",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Steve Shao",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3"
+  }
+}
